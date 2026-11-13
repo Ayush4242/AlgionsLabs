@@ -1,0 +1,15 @@
+{
+  "name": "hotel-booking-management-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-Stack Hotel Booking Management System with MERN and Tailwind CSS v4",
+  "scripts": {
+    "server": "npm --prefix backend run dev",
+    "client": "npm --prefix frontend run dev",
+    "seed": "npm --prefix backend run seed",
+    "build": "npm --prefix frontend run build"
+  },
+  "keywords": ["hotel-booking", "mern", "tailwind-v4", "react19", "express", "mongodb"],
+  "author": "Ayush Ranjan",
+  "license": "ISC"
+}
